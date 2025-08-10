@@ -61,5 +61,5 @@ Os dados utilizados estão disponíveis em formato CSV no repositório:
 👨‍💻 Autor
 Desenvolvido por Bruno Mendonça durante a Imersão de Dados da Alura.
 
-Conecte-se comigo no LinkedIn 😉
+Conecte-se comigo no LinkedIn https://www.linkedin.com/in/brunomendoncadev/ 😉
 
